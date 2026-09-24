@@ -1,3 +1,7 @@
 package com.example.lambda_bbb
 
-abstract class Triangle():Shape()
+class Triangle():Shape(){
+    override var x: Int = 0
+    override var y: Int = 0
+    var color:String = "blue"
+}
