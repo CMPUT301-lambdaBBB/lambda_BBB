@@ -6,3 +6,4 @@ abstract class Shape {
 
     var color: String = "Blue"
 }
+
